@@ -1,0 +1,17 @@
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductApp.Services.csproj.AssemblyReference.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductApp.Services.AssemblyInfoInputs.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductApp.Services.AssemblyInfo.cs
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductApp.Services.csproj.CoreCompileInputs.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\bin\Debug\net8.0\ProductApp.Services.deps.json
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\bin\Debug\net8.0\ProductApp.Services.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\bin\Debug\net8.0\ProductApp.Services.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\bin\Debug\net8.0\ProductApp.Data.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\bin\Debug\net8.0\ProductApp.Entities.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\bin\Debug\net8.0\ProductApp.Data.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\bin\Debug\net8.0\ProductApp.Entities.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductA.E58B37E1.Up2Date
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductApp.Services.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\refint\ProductApp.Services.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ProductApp.Services.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Services\obj\Debug\net8.0\ref\ProductApp.Services.dll

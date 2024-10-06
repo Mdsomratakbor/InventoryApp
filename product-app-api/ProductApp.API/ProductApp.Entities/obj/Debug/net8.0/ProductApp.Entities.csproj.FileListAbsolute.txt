@@ -1,0 +1,11 @@
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\bin\Debug\net8.0\ProductApp.Entities.deps.json
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\bin\Debug\net8.0\ProductApp.Entities.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\bin\Debug\net8.0\ProductApp.Entities.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\ProductApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\ProductApp.Entities.AssemblyInfoInputs.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\ProductApp.Entities.AssemblyInfo.cs
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\ProductApp.Entities.csproj.CoreCompileInputs.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\ProductApp.Entities.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\refint\ProductApp.Entities.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\ProductApp.Entities.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Entities\obj\Debug\net8.0\ref\ProductApp.Entities.dll

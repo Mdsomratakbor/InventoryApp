@@ -1,0 +1,12 @@
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ProductApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ProductApp.Data.AssemblyInfoInputs.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ProductApp.Data.AssemblyInfo.cs
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ProductApp.Data.csproj.CoreCompileInputs.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\bin\Debug\net8.0\ProductApp.Data.deps.json
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\bin\Debug\net8.0\ProductApp.Data.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\bin\Debug\net8.0\ProductApp.Data.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ProductApp.Data.csproj.AssemblyReference.cache
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ProductApp.Data.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\refint\ProductApp.Data.dll
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ProductApp.Data.pdb
+D:\PersonalProject\InterviewProject\product-app-api\ProductApp.API\ProductApp.Data\obj\Debug\net8.0\ref\ProductApp.Data.dll
